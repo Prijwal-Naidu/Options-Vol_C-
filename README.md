@@ -6,4 +6,4 @@ The file impvol.cpp allows the calculation of finding ImpVol using Newton's Meth
 The file MC.cpp allows the pricing of options using the Monte Carlo Method with Variance Reduction
 The file optionsprice.cpp combines this all together and provides the price of an option by extrapolating the impvol
 The file Functions.h is a header file that contains all the logic and computations behind the pricing of all the options
-The file spline.h is a header file that allows the usage of the spline method in C++. This header file is note my code.
+The file spline.h is a header file that allows the usage of the spline method in C++, this spline file is note my code.
